@@ -55,12 +55,12 @@ medium: vallinoto
 email: vallinoto@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    vallinoto:
+        name: vallinoto
+        bio: data lover | agilist
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: tvallinoto
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
