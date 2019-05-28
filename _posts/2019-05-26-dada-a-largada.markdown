@@ -10,10 +10,8 @@ tag:
 star: true
 category: blog
 author: vallinoto
-description: Dada a largada
+description: Dada a largada...
 ---
-
-## Dada a Largada
 
 Já perdi as contas das inúmeras vezes em que tentei manter conteúdo (diverso e atualizado), seja em redes sociais, seja em páginas. Talvez essa seja mais uma dessas tantas tentativas.
 
