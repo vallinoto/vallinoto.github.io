@@ -1,7 +1,7 @@
 ---
 title: "Recuperação da Lívia"
 layout: post
-date: 2019-05-26 15:50
+date: 2019-05-31 15:20
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -71,6 +71,8 @@ Pós planning, um sentimento de medo, apreensão, e todos os demais sentimentos 
 
 Reflexões:
 1. Somos pequenos e não mandamos nada: por mais organizado e planejados que possamos ser, imprevistos acontecem. Independente de quem somos, de quanto temos e de onde viemos, nossa fragilidade é demostrada em situações que não esperamos.
-2. O propósito não tem que ser o trabalho, mas sim o propósito. OK, isso sempre escutamos, mas ao presenciar situações onde isso realmente é a realidade de vida de muitas pessoas, você acaba se questionando se realmente você tem um propósito claro.
-3. Respeito e empatia. Colocar-se no lugar do outro, olhar com os olhos dos outros e não através dos olhos. Entender que estruturas familiares e situações de vida acabam moldando os comportamentos. Antes de julgar, procure entender o que está levando a pessoa a reagir de determinada forma.
-4. Paciência
+2. O propósito não tem que ser o trabalho em si. Temos que fazer o que gostamos. OK, isso sempre escutamos, mas ao presenciar situações onde isso realmente é a realidade de vida de muitas pessoas, você acaba se questionando se realmente você tem um propósito claro. Se o que você faz hoje te preenche tanto quanto pude presenciar. Lógico que existiram momentos em que vi pessoas reclamando, mas era a menor parcela do tempo. Acho que é isso que temos que ponderar: qual a proporção de tempo em que fico reclamando? Se está alta, repense e avalie mudanças. Problemas sempre existirão.
+3. Respeito e empatia. Colocar-se no lugar do outro, olhar com os olhos dos outros e não através dos olhos. Entender que estruturas familiares e situações de vida acabam moldando nossos comportamentos. Antes de julgar, procure entender o que está levando a pessoa a reagir de determinada forma. Nem sempre o que parece ser, realmente é.
+4. Paciência e resiliência. Eita coisinhas que não tenho desenvolvidas, mas com certeza são essenciais. Não se trata de questão de não se sensibilizar, de aguardar o tempo que for necessário, de não atropelar, etc., trata-se de procurar racionalizar mais frente aos desafios que nos são impostos. O efeito é salutar, emocionalmente e fisiologicamente falando (por exeperiência própria). Somos reflexo do meio em que estamos inseridos. Temos que saber encarar algumas situações inesperadas e tentar contorná-las, resolvê-las da melhor forma.
+
+Bom, era isso que gostaria de compartilhar. Esse foi o primeiro. Quem venham os próximos.
