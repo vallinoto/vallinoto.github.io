@@ -9,6 +9,7 @@ tag:
 - agilidade
 - gestão visual
 star: true
+comments: true
 category: blog
 author: vallinoto
 description: Recuperação da Lívia
