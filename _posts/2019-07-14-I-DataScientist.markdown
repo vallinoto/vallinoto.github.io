@@ -15,7 +15,7 @@ author: vallinoto
 description: I DataScientist?! Minha jornada em ciência de dados
 ---
 
-Faz um certo tempo que fico me questionando o que eu sou profissionalmente. Fico procurando por títulos que expliquem o que faço. Geralmente, almejava ser reconhecido por esse rótulo, por uma posição, acreditando que isso me traria uma satisfação. Ledo engano :(
+Faz um certo tempo que fico me questionando o que eu sou profissionalmente. Fico procurando por títulos que expliquem o que faço. Geralmente, almejava ser reconhecido por esse rótulo, por uma posição, acreditando que isso me traria uma satisfação. Ledo engano  😞 
 
 Nos últimos anos tenho intensificado minhas leituras, aulas, aprendizados a um tema relativamente amplo. Reconheço duas coisas: a primeira é que se não fosse por um ex-colega de trabalho nunca teria procurado saber sobre e a segunda e menos importante o reconhecimento que a mídia estava dando para esse novo papel: cientista de dados. Sou uma pessoa questionadora por natureza. Fico intrigado com as coisas, como elas estão relacionadas, o contexto e os motivadores por de trás das situações às quais sou exposto. Talvez essas características tenham levado ele a me falar sobre DataScience?!
 
