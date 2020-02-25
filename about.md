@@ -5,30 +5,41 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
-<p>Inquieto em relação ao aprendizado: paixão por aprender. Motivado pela diversidade de temas. Questionador por natureza. Resolvedor de problemas: "bora" experimentar soluções e alternativas. Adaptável: mudanças são bem-vindas. Comunicativo. Amplitude visual: capacidade de entender o todo. Analítico e detalhista.</p>
+<p>Hi, I'm Tiago! Some know me by Vallinoto.</p>
+<br>
+<p>I have been working with technology since 2001. Specialist in the use of best practices and technologies to leverage and enhance solution deliveries. Since 2016 involved in strategic themes and digital transformation.</p>
+<br>
+<p>Analytical professional, enthusiastic about the world of data, seeking to intensify a culture based on data. Intense use of storytelling, exploratory data analyzes and dataviz to foster new perspectives to achieve business agility.</p>
+<br>
+<p>Ease communication and relationship, built through professional experiences inside and outside the technology area. Good ability to understand scenarios, allowing quick and pragmatic proposals to accelerate decision making. Logical and analytical approach to solving problems.</p>
+<br>
+<p>Currently, I work strongly with the themes like Business Agility, Service Delivery Management and Portfolio Management.</p>
 
-<p>De 2001 até hoje, são cerca de 17 anos dedicados à tecnologia, desempenhando os mais diversos papéis: support, sysadmin e governança/gestão de serviços. Entre 2006 e 2012 surfou as ondas da SegInfo, desde a parte mais técnica, como análise de segurança em aplicações, auditorias, até a parte de governança de SI.</p>
-
-<p>Entusiasta do mundo de dados: informação qualificada para decisões e insights mais acertivos. Encantado com o mindset ágil/lean que vem experimentando na transformação digital onde faz parte.</p>
-
-<p>Esse sou eu!</p> 
-
-<h2>Skills</h2>
-
+<h2>Top Technical skills:</h2>
 <ul class="skill-list">
-	<li>análise exploratória de dados</li>
-	<li>visualização de dados</li>
-	<li>python</li>
-	<li>sql</li>
-	<li>infraestrutura de TI em geral</li>
-	<li>agile</li>
-	<li>lean/Kanban</li>	
-	<li>git</li>
+
+	<li> agile values ​​and principles</li>
+	<li> Kanban Management Professional</li>
+	<li> exploratory data analysis</li>
+	<li> descriptive statistics</li>
+	<li> dataviz</li>
+	<li> DevOps practices</li>
+	<li> Python</li>
+	<li> database: MySQL, MS-SQL and PostgreeSQL</li>
+</ul>
+<h2>Top Behavioral Skills:</h2>
+<ul class="skill-list">
+
+	<li> critical thinking</li>
+	<li> communicative</li>
+	<li> curiosity</li>
+	<li> fast learning</li>
+	<li> quick reading of scenarios</li> 
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="#">Está no forno o primeiro :) </a></li>
+	<li><a href="#">Running :) </a></li>
 
 </ul>
