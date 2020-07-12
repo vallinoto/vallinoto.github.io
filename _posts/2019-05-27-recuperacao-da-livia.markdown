@@ -4,7 +4,7 @@ title:  "Recuperação da Lívia"
 author: vallinoto
 categories: [ blog ]
 tags: [ agile, agilidade, gestao visual]
-image: assets/images/markdown.jpg
+#image: assets/images/markdown.jpg
 description: "Recuperação da Lívia"
 featured: true
 hidden: true

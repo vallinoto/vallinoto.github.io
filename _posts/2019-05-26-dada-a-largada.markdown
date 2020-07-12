@@ -4,7 +4,7 @@ title:  "Dada a largada"
 author: vallinoto
 categories: [ blog ]
 tags: [blog, primeiro post]
-image: assets/images/markdown.jpg
+#image: assets/images/markdown.jpg
 description: "Dada a largada..."
 featured: true
 hidden: true
