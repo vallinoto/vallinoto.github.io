@@ -13,6 +13,15 @@ permalink: /:title/
 
 # Authors
 authors:
+  vallinoto:
+    name: vallinoto
+    display_name: vallinoto
+    avatar: 'assets/images/avatar.png'
+    gravatar:
+    email: vallinoto@gmail.com
+    web: https://vallinoto.github.io
+    twitter: https://twitter.com/tvallinoto
+    description: "data lover | agilist"
   sal:
     name: Sal
     display_name: Sal
