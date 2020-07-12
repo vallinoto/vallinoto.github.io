@@ -1,115 +1,74 @@
-# main text of home
-name: vallinoto
-bio: data lover | agilist 
+# Site
+name: 'vallinoto'
+description: 'data science | agile'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/mundana-theme-jekyll'
+disqus: 'vallinoto'
+email: 'vallinoto@gmail.com'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-# twitter summary info
-description: A blog about technology and stuff related
-
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile.jpg
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-#resume: true
-#resume-external: true
-#resume-url: https://google.com/?q=my+resume
-
-url: http://vallinoto.github.io
-# your url: http://USERNAME.github.io
-
+include: ["_pages"]
 permalink: /:title/
 
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: vallinoto # enter this from your disqus account
-  #categories: [blog, project] # only show disqus for posts that have these categories
-  categories: [blog] # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
-#facebook: myfacebook
-twitter: tvallinoto
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: vallinoto
-# youtube: myyoutube
-# spotify: myspotify
-github: vallinoto
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: vallinoto
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-email: vallinoto@gmail.com
-
-authors:
-    vallinoto:
-        name: vallinoto
-        bio: data lover | agilist
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: tvallinoto
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: normal
-
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
-
-# do you want to show the "read time" of the posts?
-read-time: true
-
-# do you want to show the "tags" inside the posts?
-show-tags: true
-
-# related posts inside a post?
-related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
-show-author: true
-
-# do you want some animations?
-animation: true
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
+# Plugins
+plugins: 
   - jekyll-feed
-  - jemoji
-  - jekyll-admin
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    sal:
+      name:           Sal
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
 
-jekyll-mentions:
-    base_url: https://github.com
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
 
-compress_html:
-    ignore:
-        envs:
-        - development
-        - stage
+    vallinoto:
+      name:           Vallinoto
+      site:           https://vallinoto.github.io
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "data lover | agilist "
+      email:          vallinoto@gmail.com
+      twitter:        https://twitter.com/tvallinoto
+      
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+      # Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
