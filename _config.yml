@@ -1,7 +1,7 @@
 # Site
-name: "vallinoto"
-title: "vallinoto"
-description: ""
+name: ""
+title: "vallinoto.github.io"
+description: "repo about data, analytics and agile"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
