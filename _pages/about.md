@@ -5,10 +5,6 @@ permalink: /about
 comments: true
 ---
 
-
-
-<div align="center">
-
 <p>Hi, I'm Tiago! Some know me by Vallinoto.</p>
 
 <p>I have been working with technology since 2001. Specialist in the use of best practices and technologies to leverage and enhance solution deliveries. Since 2016 involved in strategic themes and digital transformation.</p>
@@ -19,7 +15,7 @@ comments: true
 
 <p>Currently, I work strongly with the themes like Business Agility, Service Delivery Management and Portfolio Management.</p>
 
-<h2>Top Technical skills:</h2>
+<h3>Top Technical skills:</h3>
 <ul class="skill-list">
 
 	<li> agile values ​​and principles</li>
@@ -31,7 +27,7 @@ comments: true
 	<li> Python</li>
 	<li> database: MySQL, MS-SQL and PostgreeSQL</li>
 </ul>
-<h2>Top Behavioral Skills:</h2>
+<h3>Top Behavioral Skills:</h3>
 <ul class="skill-list">
 
 	<li> critical thinking</li>
@@ -40,4 +36,3 @@ comments: true
 	<li> fast learning</li>
 	<li> quick reading of scenarios</li> 
 </ul>
-</div>
