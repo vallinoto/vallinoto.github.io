@@ -6,8 +6,8 @@ comments: true
 ---
 
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<div align="center">
 
 <p>Hi, I'm Tiago! Some know me by Vallinoto.</p>
 
@@ -40,11 +40,4 @@ comments: true
 	<li> fast learning</li>
 	<li> quick reading of scenarios</li> 
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="#">Running :) </a></li>
-
-</ul>
-
+</div>
