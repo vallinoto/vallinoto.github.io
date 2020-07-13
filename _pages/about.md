@@ -1,35 +1,50 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Hi, I'm Tiago! Some know me by Vallinoto.</p>
 
-<h4>Questions or bug reports?</h4>
+<p>I have been working with technology since 2001. Specialist in the use of best practices and technologies to leverage and enhance solution deliveries. Since 2016 involved in strategic themes and digital transformation.</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Analytical professional, enthusiastic about the world of data, seeking to intensify a culture based on data. Intense use of storytelling, exploratory data analyzes and dataviz to foster new perspectives to achieve business agility.</p>
 
-</div>
+<p>Ease communication and relationship, built through professional experiences inside and outside the technology area. Good ability to understand scenarios, allowing quick and pragmatic proposals to accelerate decision making. Logical and analytical approach to solving problems.</p>
 
-<div class="col-md-4">
+<p>Currently, I work strongly with the themes like Business Agility, Service Delivery Management and Portfolio Management.</p>
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h2>Top Technical skills:</h2>
+<ul class="skill-list">
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+	<li> agile values ​​and principles</li>
+	<li> Kanban Management Professional</li>
+	<li> exploratory data analysis</li>
+	<li> descriptive statistics</li>
+	<li> dataviz</li>
+	<li> DevOps practices</li>
+	<li> Python</li>
+	<li> database: MySQL, MS-SQL and PostgreeSQL</li>
+</ul>
+<h2>Top Behavioral Skills:</h2>
+<ul class="skill-list">
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+	<li> critical thinking</li>
+	<li> communicative</li>
+	<li> curiosity</li>
+	<li> fast learning</li>
+	<li> quick reading of scenarios</li> 
+</ul>
 
-</div>
-</div>
-</div>
+<h2>Projects</h2>
+
+<ul>
+	<li><a href="#">Running :) </a></li>
+
+</ul>
+
