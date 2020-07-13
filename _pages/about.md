@@ -4,6 +4,7 @@ title: About
 permalink: /about
 comments: true
 ---
+[!Profile](https://vallinoto.github.io/assets/images/profile.jpg)
 
 <p>Hi, I'm Tiago! Some know me by Vallinoto.</p>
 
