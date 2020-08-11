@@ -1,16 +1,39 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: a bit about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Vallinoto](https://vallinoto.github.io/assets/images/profile.jpg)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<p>Hi, I'm Tiago! Some know me by Vallinoto.</p>
 
-What else do you need?
+<p>I have been working with technology since 2001. Specialist in the use of best practices and technologies to leverage and enhance solution deliveries. Since 2016 involved in strategic themes and digital transformation.</p>
 
-### my history
+<p>Analytical professional, enthusiastic about the world of data, seeking to intensify a culture based on data. Intense use of storytelling, exploratory data analyzes and dataviz to foster new perspectives to achieve business agility.</p>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p>Ease communication and relationship, built through professional experiences inside and outside the technology area. Good ability to understand scenarios, allowing quick and pragmatic proposals to accelerate decision making. Logical and analytical approach to solving problems.</p>
+
+<p>Currently, I work strongly with the themes like Business Agility, Service Delivery Management and Portfolio Management.</p>
+
+<h3>Top Technical skills:</h3>
+<ul class="skill-list">
+
+	<li> agile values ​​and principles</li>
+	<li> Kanban Management Professional</li>
+	<li> exploratory data analysis</li>
+	<li> descriptive statistics</li>
+	<li> dataviz</li>
+	<li> DevOps practices</li>
+	<li> Python</li>
+	<li> database: MySQL, MS-SQL and PostgreeSQL</li>
+</ul>
+<h3>Top Behavioral Skills:</h3>
+<ul class="skill-list">
+
+	<li> critical thinking</li>
+	<li> communicative</li>
+	<li> curiosity</li>
+	<li> fast learning</li>
+	<li> quick reading of scenarios</li> 
+</ul>
