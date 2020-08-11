@@ -4,7 +4,9 @@ title: Quem sou eu?
 subtitle: um pouquinho sobre mim...
 ---
 
-![Vallinoto](https://vallinoto.github.io/assets/imgs/profile.jpg)
+
+
+## Pequeno resumo
 
 <p>Oi, eu sou o Tiago. Profissionalmente, muito me chamam pelo sobrenome: Vallinoto, ou pela simples diminuição dele Valli.</p>
 
