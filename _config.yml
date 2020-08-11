@@ -12,10 +12,10 @@ author: vallinoto
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre mim: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Portfolio: "#"
+    - Apresentações e Palestras: "#"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
