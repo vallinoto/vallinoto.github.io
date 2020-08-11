@@ -5,6 +5,7 @@ author: vallinoto
 tags: [ agile, agilidade, gestao visual]
 cover-img: assets/img/javier-matheu-AHDeiqdiC7Q-unsplash.jpg
 subtitle: "Recuperação da Lívia"
+comments: true
 ---
 
 Tem coisas na vida que acontecem e nem sabemos ao menos o motivo, a razão. Já faz algum tempo que tenho procurado encarar os fatos de forma diferente, procurando sempre tirar algum tipo de ensinamento, mesmo que a situação não seja boa. Estar em situações desconfortáveis acaba por nos deixar vulneráveis, a mercê de sentimentos um tanto quanto avassaladores. No final de 2018, passei por uma situação dessas. E gostaria de compartilhar com vocês meus aprendizados e reflexões.
