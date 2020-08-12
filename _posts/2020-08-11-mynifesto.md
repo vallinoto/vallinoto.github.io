@@ -51,10 +51,7 @@ Em um passado não tão distante assim, ao menor sinal de obstáculo, ficava rem
 Sempre procurei os extremos, hoje, procuro ser como a água, fluir através do caminho, contornando alguns obstáculos, mas seguindo o curso.
 
 7. **Don’t yell, just speak** 
->“Tiago, não grita!” 
-Quantas vezes ouvi isso? Perdi a conta. Timbre de voz mais alto, sangue italiano (mesmo que bem pouquinho), com a intensidade sempre a mil km/h e a sensação é de que estou berrando aos quatro cantos do planeta.
-De certa forma, não me preocuparia muito, mas isso somada a algumas outras questões por vezes tornou-se um tanto violenta para quem estava recebendo as opiniões e informações.
-A fala mais intensa me acompanha em toda a minha caminhada. Feedbacks, principalmente no trabalho, já havia recebido, mas o fato mais marcante foi ver meus filhotes começando a seguir o exemplo de falar quase aos berros.
+__“Tiago, não grita!”__ Quantas vezes ouvi isso? Perdi a conta. Timbre de voz mais alto, sangue italiano (mesmo que bem pouquinho), com a intensidade sempre a mil km/h e a sensação é de que estou berrando aos quatro cantos do planeta. De certa forma, não me preocuparia muito, mas isso somada a algumas outras questões por vezes tornou-se um tanto violenta para quem estava recebendo as opiniões e informações. A fala mais intensa me acompanha em toda a minha caminhada. Feedbacks, principalmente no trabalho, já havia recebido, mas o fato mais marcante foi ver meus filhotes começando a seguir o exemplo de falar quase aos berros.
 Opa, algo errado não está certo rsrs. Sou espelho ao menos para esses dois anjinhos. Bora controlar isso! De certa forma, senti melhora no ambiente familiar. Profissionalmente, ainda conseguia me controlar mais, mas o reflexo vem sendo positivo. Respira, entende e depois reage, de forma tranquila.
 
 8. **Less but better** 
