@@ -4,7 +4,7 @@ title:  "Recuperação da Lívia"
 author: vallinoto
 tags: [ agile, agilidade, gestao visual]
 cover-img: assets/img/javier-matheu-AHDeiqdiC7Q-unsplash.jpg
-subtitle: "Recuperação da Lívia"
+subtitle: "Como identifiquei algumas práticas emergirem ao natural em uma UTI Neo"
 comments: true
 ---
 
