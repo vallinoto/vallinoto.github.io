@@ -42,6 +42,7 @@ Observar, entender o contexto, racionalizar sobre o problema e só assim se posi
 Sempre que começo a desenhar soluções acabo pensando no ótimo. Quando isso acontece eu paro e lembro de frases como:
 - O ótimo é inimigo do bom
 - Feito é melhor que perfeito
+
 A propriedade intelectual de tais frases que escuto desde criança realmente não sei, só sei que são a mais pura verdade para perfeccionistas como eu. Lógico que algo entregue com perfeição é bom, mas o tempo em algumas situações tem um preço alto e algum valor precisa ser gerado. Buscar pela solução mais simples e que já dê uma resposta para resolução do problema tem sido o norteador de algumas atividades profissionais.
 A complexidade no desenho da solução pode ser o início do fim.
 
