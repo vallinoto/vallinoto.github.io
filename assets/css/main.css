@@ -14,7 +14,7 @@ body {
   /*font-family: 'Lora', 'Times New Roman', serif;*/
   font-family: 'Open Sans', 'sans-serif';
   /*font-size: 1.125rem;*/
-  font-size: smaller
+  font-size: x-small
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
