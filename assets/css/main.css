@@ -11,10 +11,8 @@ html {
 }
 
 body {
-  /*font-family: 'Lora', 'Times New Roman', serif;*/
-  font-family: 'Open Sans', 'sans-serif';
-  /*font-size: 1.125rem;*/
-  font-size: smaller
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -176,7 +174,7 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 2.5rem; 
+  height: 2.5rem;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -237,8 +235,9 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 30.125rem; 
+    height: 3.125rem;
   }
+
   .navbar-expand-md .navbar-nav .nav-link {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
