@@ -22,24 +22,23 @@ Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas Busi
 
 ## top skills técnicos:
 
-	* exploratory data analysis
-	* estatística descritiva
-	* dataviz
-	* Python
-	* database: MySQL, MS-SQL and PostgreeSQL
-	* ML
+* exploratory data analysis
+* estatística descritiva
+* dataviz
+* Python
+* database: MySQL, MS-SQL and PostgreeSQL
+* ML
 
 ## top skills ágeis
 
-	* agile values ​​and principles
-	* Kanban Management Professional (by Kanban University)
-	* práticas DevOps e XP
+* agile values ​​and principles
+* Kanban Management Professional (by Kanban University)
+* práticas DevOps e XP
 
 ## top skills comportamentais:
 
-	* critical thinking
-	* comunicativo
-	* curioso
-	* aprendizado rápido
-	* visão holística 
-
+* critical thinking
+* comunicativo
+* curioso
+* aprendizado rápido
+* visão holística 
