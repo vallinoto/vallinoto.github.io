@@ -25,7 +25,7 @@ Pós planning, um sentimento de medo, apreensão, e todos os demais sentimentos 
 
 **Dia 01 de 10:** conhecemos os integrantes do time e, pasmem, apesar de ter o tamanho muito grande, é interessante como as coisas fluem entre o membros (técnicos, enfermeiras, médicos, etc.). Todos com o objetivo claro e trabalhando para seu atendimento. 
 
-![Lívia UTI]({{ site.url }}/assets/img/livia_uti.jpg)
+![Lívia UTI]({{ site.url }}/assets/images/new/livia_uti.jpg)
 <figcaption class="caption">Lívia com acesso para medicação</figcaption>
 <br>
 
@@ -60,7 +60,7 @@ Pós planning, um sentimento de medo, apreensão, e todos os demais sentimentos 
 ##### Boas notícias: Produção, enfim produção!!! Produto liberado, todos felizes!!!
 
 
-![Lívia Hoje]({{ site.url }}/assets/img/livia_hj.jpg)
+![Lívia Hoje]({{ site.url }}/assets/images/new/livia_hj.jpg)
 <figcaption class="caption">Minha lindeza 5 meses depois :) \0/</figcaption>
 <br>
 

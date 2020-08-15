@@ -21,7 +21,7 @@ Em uma das conversas, principalmente sobre certificados e papéis com títulos, 
 A composição dele é uma coletânea de frases simples para marcar e lembrar por reforço os comportamentos mais importantes para me tornar alguém melhor. Na figura abaixo eu os apresento te depois o motivo de cada uma das escolhas.
 
 
-![MYnifesto]({{ site.url }}/assets/img/mynifesto.jpeg)
+![MYnifesto]({{ site.url }}/assets/images/new/mynifesto.jpeg)
 
 
 1. **Don’t say YES so FAST** 
@@ -72,5 +72,5 @@ Primeiro passo para mudar é reconhecer, o segundo é querer. Não é fácil, ma
 * Atenção Plena – Mindfulness: Como Encontrar A Paz Em Um Mundo Frenético, Mark Williams
 
 ## Post que me inspirou:
-* Como apliquei limites para equilibrar minha vida, Caco – Cleitonn Mafra. Link: https://medium.com/rd-shipit/como-apliquei-limites-para-equilibrar-minha-vida-7af6139fc1a3
+* Como apliquei limites para equilibrar minha vida, Caco – Cleitonn Mafra. [Link](https://medium.com/rd-shipit/como-apliquei-limites-para-equilibrar-minha-vida-7af6139fc1a3)
 
