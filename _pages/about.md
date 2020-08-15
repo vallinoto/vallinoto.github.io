@@ -5,8 +5,7 @@ permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+
 
 
 Oi, eu sou o Tiago, muito prazer! Profissionalmente, muitos me chamam pelo sobrenome, Vallinoto, ou pela simples diminuição dele, Valli.
@@ -45,8 +44,6 @@ Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas Busi
 * aprendizado rápido
 * visão holística 
 
-</div>
-</div>
 
 
 
