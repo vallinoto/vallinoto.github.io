@@ -7,7 +7,6 @@ tags: [ agile, agilidade, gestao visual]
 image: assets/images/new/javier-matheu-AHDeiqdiC7Q-unsplash.jpg
 sudescription: "Como identifiquei algumas práticas emergirem ao natural em uma UTI Neo"
 comments: true
-featured: true
 ---
 
 

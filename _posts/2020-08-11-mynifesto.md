@@ -8,6 +8,7 @@ image: assets/images/new/cover_post_mynifest.jpg
 sudescription: "Meu conjunto de práticas para melhorar continuamente."
 comments: true
 featured: true
+hidden: true
 ---
 
 
