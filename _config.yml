@@ -21,12 +21,12 @@ authors:
 #    web: https://www.wowthemes.net
 #    twitter: https://twitter.com/wowthemesnet
 #    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  vallinoto:
+    name: vallinoto
+    display_name: Vallinoto    
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    #gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: vallinoto@gmail.com
     web: https://vallinoto.com
     twitter: https://twitter.com/tvallinoto
     description: "Thinker. Data lover."
