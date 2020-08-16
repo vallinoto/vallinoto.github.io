@@ -2,7 +2,7 @@
 name: "vallinoto.com"
 title: "vallinoto.com"
 description: "a repo about my journey."
-logo: 'assets/images/new/logo_curto.png'
+#logo: 'assets/images/new/logo_curto.png'
 favicon: 'assets/images/logo_curto.png'
 baseurl: 'https://vallinoto.com'
 
@@ -15,7 +15,7 @@ authors:
   vallinoto:
     name: vallinoto
     display_name: Vallinoto    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/new/profile.png'
     #gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: vallinoto@gmail.com
     web: https://vallinoto.com
