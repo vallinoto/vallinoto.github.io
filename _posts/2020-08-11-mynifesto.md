@@ -73,5 +73,5 @@ Primeiro passo para mudar é reconhecer, o segundo é querer. Não é fácil, ma
 * Atenção Plena – Mindfulness: Como Encontrar A Paz Em Um Mundo Frenético, Mark Williams
 
 ## Post que me inspirou:
-* Como apliquei limites para equilibrar minha vida, Caco – Cleitonn Mafra. [Link](https://medium.com/rd-shipit/como-apliquei-limites-para-equilibrar-minha-vida-7af6139fc1a3)
+* Como apliquei limites para equilibrar minha vida, Caco – Cleiton Mafra. [Link](https://medium.com/rd-shipit/como-apliquei-limites-para-equilibrar-minha-vida-7af6139fc1a3)
 
