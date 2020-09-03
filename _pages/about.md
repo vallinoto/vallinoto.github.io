@@ -1,11 +1,11 @@
 ---
 layout: page
-title: um pouquinho sobre mim...
+title: About
 permalink: /about
 comments: true
 ---
 
-
+## Quem sou eu?!
 
 
 Oi, eu sou o Tiago, muito prazer! Profissionalmente, muitos me chamam pelo sobrenome, Vallinoto, ou pela simples diminuição dele, Valli.
@@ -21,7 +21,7 @@ Tenho uma comunicação clara e bom relacionamento. Tudo construído através da
 
 Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas Business Agility, Service Delivery and Portfolio Management, tudo regado com muitos dados e análises :)
 
-## top skills técnicos:
+### top skills técnicos:
 
 * exploratory data analysis
 * estatística descritiva
@@ -30,13 +30,13 @@ Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas Busi
 * database: MySQL, MS-SQL and PostgreeSQL
 * ML
 
-## top skills ágeis
+### top skills ágeis
 
 * agile values ​​and principles
 * Kanban Management Professional (by Kanban University)
 * práticas DevOps e XP
 
-## top skills comportamentais:
+### top skills comportamentais:
 
 * critical thinking
 * comunicativo

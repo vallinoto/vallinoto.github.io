@@ -331,7 +331,7 @@ span.post-read-more a:hover {
 
 .article-post {
     font-family: "Anonymous Pro",monospace;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
 }
@@ -713,7 +713,7 @@ h6 {
 .layout-page .article-post {
     /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";*/
     font-family: "Anonymous Pro",monospace;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
 }
 
 .layout-page .article-post p {
