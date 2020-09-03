@@ -300,13 +300,13 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 90px;
     margin-right: 5px;
 }
 
 .mainheading h1.sitetitle {
-    /*font-family: Righteous;*/
-    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: Righteous;
+    /*ffont-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;*/
 }
 
 .mainheading h1.posttitle {
