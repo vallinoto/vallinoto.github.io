@@ -5,7 +5,7 @@ description: um pouquinho sobre mim
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://vallinoto.com/assets/img/uploads/profile.png" alt="vallinoto" width="200">
+<img class="img-rounded" src="https://vallinoto.com/assets/img/uploads/profile.jpg" alt="vallinoto" width="200">
 
 
 ## Quem sou eu?!
