@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 3
+author.name: Vallinoto
 ---
 
 # **About Me**
