@@ -4,8 +4,8 @@ layout: post
 title: "MYnifesto"
 subtitle:  "Meu conjunto de práticas para melhorar continuamente."
 description:  "Meu conjunto de práticas para melhorar continuamente."
-image: assets/img/uploads/cover_post_mynifest.jpg
-optimized_image: assets/img/uploads/cover_post_mynifest.jpg
+image: https://vallinoto.com/assets/img/uploads/cover_post_mynifest.jpg
+optimized_image: https://vallinoto.com/assets/img/uploads/cover_post_mynifest.jpg
 category: blog
 tags:
   - kaizen
@@ -23,7 +23,7 @@ Em uma das conversas, principalmente sobre certificados e papéis com títulos, 
 A composição dele é uma coletânea de frases simples para marcar e lembrar por reforço os comportamentos mais importantes para me tornar alguém melhor. Na figura abaixo eu os apresento te depois o motivo de cada uma das escolhas.
 
 
-![MYnifesto]({{ site.url }}/assets/img/uploads/mynifesto.jpeg)
+![MYnifesto](https://vallinoto.com/assets/img/uploads/mynifesto.jpeg)
 
 
 1. **Don’t say YES so FAST** 
