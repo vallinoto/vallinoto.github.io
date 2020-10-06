@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : vallinoto
-  image             : {{ site.url }}/assets/images/new/profile.jpg
+  image             : https://vallinoto.com/assets/images/new/profile.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : eu@vallinoto.com
