@@ -1,6 +1,6 @@
 # Site Settings
-name: Vallinoto
-title: Vallinoto.com | A blog about 
+name: vallinoto
+title: vallinoto.com | A blog about 
 description: a repo about my journey in this world
 tags:
   - blog
@@ -26,7 +26,7 @@ disqus_username: vallinoto
 # Remove the item if you don't need it
 github_username: vallinoto
 #facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: tvallinoto
 instagram_username: tiagovallinoto
 linkedin_username: vallinoto
 medium_username: vallinoto
