@@ -1,7 +1,7 @@
 ---
 name: Desafio Codenation
-tools: [Python, ML]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+tools: [Python, Jupyter Notebook, ML]
+image: https://vallinoto.com/media/codenation_logo.png
 description: Desafio classificatório para ingresso na turma de aceleração em Data Science da Codenation
 ---
 
@@ -43,5 +43,5 @@ Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/vallinoto/challenges/tree/master/codenation" text="Learn More" %}
+{% include elements/button.html link="https://github.com/vallinoto/challenges/tree/master/codenation" text="Acesso ao código" %}
 </p>
