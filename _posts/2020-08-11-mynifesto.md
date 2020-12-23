@@ -1,18 +1,20 @@
 ---
-date: 2020-08-11 12:00:00
-layout: post
+
 title: "MYnifesto"
-subtitle:  "Meu conjunto de práticas para melhorar continuamente."
 description:  "Meu conjunto de práticas para melhorar continuamente."
-image: https://vallinoto.com/assets/img/uploads/cover_post_mynifest.jpg
-optimized_image: https://vallinoto.com/assets/img/uploads/cover_post_mynifest.jpg
-category: blog
+comments: true
+style: fill
+color: secondary
 tags:
   - kaizen
   - autoconhecimento
 author: vallinoto
 ---
 
+![Capa](https://vallinoto.com/media/cover_post_mynifest.jpg)
+<figcaption class="caption">fonte: cover_post_mynifest.jpg</figcaption>
+<br>
+<br>
 
 Tenho refletido sobre como mudar alguns comportamentos que entendo não serem adequados para mim. Sempre estive preocupado com a aceitação dos outros, da imagem que fazem de mim. Minha passagem, estadia, no tema agilidade me proporcionou/proporciona uma série de reflexões e é sobre isso que gostaria de compartilhar um pouco.
 
@@ -23,7 +25,7 @@ Em uma das conversas, principalmente sobre certificados e papéis com títulos, 
 A composição dele é uma coletânea de frases simples para marcar e lembrar por reforço os comportamentos mais importantes para me tornar alguém melhor. Na figura abaixo eu os apresento te depois o motivo de cada uma das escolhas.
 
 
-![MYnifesto](https://vallinoto.com/assets/img/uploads/mynifesto.jpeg)
+![MYnifesto](https://vallinoto.com/media/mynifesto.jpeg)
 
 
 1. **Don’t say YES so FAST** 
