@@ -1,24 +1,10 @@
-/**
- * Set up here the general appearance of the theme.
- */
+$primary:   #007bff;
+$secondary: #6c757d;
+$success:   #28a745;
+$info:      #17a2b8;
+$warning:   #ffc107;
+$danger:    #dc3545;
+$light:     #f8f9fa;
+$dark:      #343a40;
 
-$themeColor: map-get($theme, themeColor) !default;
-$primaryDark: map-get($theme, primaryDark) !default;
-$accentDark: map-get($theme, accentDark) !default;
-$lightGray: map-get($theme, lightGray) !default;
-$texts: map-get($theme, texts) !default;
-
-// Breakpoints
-$breakpoints: (
-  sm: 37.5rem
-);
-
-// Margins
-$rowMargin: 10px;
-$itemMargin: 15px;
-
-// Sizes
-$itemMinWidth: 300px;
-
-// Settings
-$maxItemsPerRow: 6;
+$rounded-borders: 15px;
