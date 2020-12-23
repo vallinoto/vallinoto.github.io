@@ -25,11 +25,11 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Vallinoto
-  image             : https://vallinoto.com/_elements/media/profile.jpg
+  image             : https://vallinoto.com/media/profile.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : eu@vallinoto.com
-  facebook          : your_username
+#  facebook          : your_username
   github            : vallinoto
 # gitlab            : your_username
 # instagram         : your_username
