@@ -5,7 +5,7 @@ tags:
   - agilidade 
   - gestao visual
 style: fill
-color: dark
+color: yellow
 comments: true
 description: "Como identifiquei algumas práticas emergirem ao natural em uma UTI Neo"
 ---
