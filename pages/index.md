@@ -1,4 +1,5 @@
 ---
+title: vallinoto.com
 layout: default
 permalink: /
 ---
