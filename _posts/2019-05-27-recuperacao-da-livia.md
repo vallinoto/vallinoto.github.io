@@ -1,8 +1,11 @@
 ---
 title: "Recuperação da Lívia"
-tags: [ agile agilidade gestao visual ]
+tags: 
+  - agile
+  - agilidade 
+  - gestao visual
 style: fill
-color: secondary
+color: dark
 comments: true
 description: "Como identifiquei algumas práticas emergirem ao natural em uma UTI Neo"
 ---
