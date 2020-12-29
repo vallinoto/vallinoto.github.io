@@ -1,17 +1,64 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: IT Specialist, Sicredi 
+  from: jan/2019
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Leading the restructuring of the portfolio management, through the adoption of the Kanban method and flight levels system thinking.
+               Pairing with the Agile Coaches Teams to support actions aimed at Digital Transformation. 
+               Training organization in the use of metrics for restriction analysis.
+               Strong data use, seeking to intensify a culture based on data, to foster new perspectives to achieve the true business agility.
+
+- title: SR IT Strategy Analyst, Sicredi 
+  from: fev/2017
+  to: dez/2018
+  description: Responsible for the Performance Management discipline, within the Office of the CIO cell.
+               Definition of metrics involving agile transformation.
+               Analysis and diagnosis of metrics to improve IT deliveries.
+               Creation tactical and executive visions.
+
+- title: SR IT Services Analyst, Sicredi
+  from: jul/2012
+  to: fev/2017
+  description: In this role, I had the opportunity to lead some of the ITSM processes. Below are some highlights of the functions
+               After January 2016
+                -Responsible for the Continuos Service Improvement Process (process design and implementation);
+                -Definition of metrics for IT services;
+                -Assistance to ITSM process leaders to improve processes through mentoring and coaching;
+                -Participation in projects in a consultative way.
+
+               Between October 2013 and December 2015
+                -Responsible for the Capacity Management process;
+                -Definition of metrics for IT services, making the link between technical metrics and business metrics (business driver);
+                -Monitoring and forecasting the use of Infrastructure resource pools, IT Services and business trends;
+                -Participation in projects in a consultative way;
+                -Compliance with audit items, drawing up risk mitigation plans;
+                -Definition of non-functional requirements for run application performance tests.
+
+               Until October
+                -Responsible for the IT Service Continuity Process
+                -Conducting Business Impact Analysis with the Operational Risk team;
+                -Conducting action plans to mitigate risks;
+                -Maintenance and updating of the critical services catalog;
+                -Planning and Conduction of Disaster Recovery Tests;
+                -Development of IT Continuity Service Plans;
+                -Participation in projects in a consultative way;
+
+- title: Information Security Analyst, Sicredi
+  from: jan/2010
+  to: jul/2012
+  description: In this role, I had the opportunity to perform vulnerability tests on web and client-server applications;
+               Participate and conduct internal and external audits, being responsible for monitoring the action plans to equalize the non-compliance items; 
+               Development of guides, rules and internal policies for Information Security and IT; 
+               Participation in systems development projects in the role of SegInfo responsible for directing and guiding non-functional requirements.
+
+- title: Posgraduate Professor - System Security, ULBRA
+  from: mai/2012
+  to: jul/2012
+  description: Professor substitute of Applied Cryptography, at the Information Security Course, with 45h of workload.
+               Very rewarding experience of being able to share a little knowledge with a group of people who were looking for complementary training for their career.
+
+- title: Information Security Analyst, SLC Group
+  from: jan/2010
+  to: jul/2012
+  description: A lot of my professional baggage was built in this organization. There, I made my first transitions between roles within IT.
+               I was responsible for the Information Security process; Conducting internal and external compliance audits, using the main practices for Information Security and Governance;
+               Responsible for evaluating and implementing SegInfo practices; SegInfo Project Leader, conducting projects such as Centralized Backup Management, Firewall Cluster Implementation Checkpoint, Domain Policy Review, Hardening, among others;
+               Previously, during the first years (2001 to 2005), as a system administrator, in Microsoft environments (2000 and 2003) and Linux (RedHat and OpenSuse), with virtual and physical servers
