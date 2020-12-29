@@ -23,6 +23,9 @@ Tenho uma comunicação clara e bom relacionamento. Tudo construído através da
 
 Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas *Business Agility*, *Service Delivery and Portfolio Management*, tudo regado com muitos dados e análises :)
 
+<br>
+<br>
+
 <!-- 
 
 <div class="row">
