@@ -1,7 +1,59 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: LEANability - Flight Levels Training
+  percentage: 100
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Aspercom - KMP I
+  percentage: 100
+  color: info
+
+- name: Aspercom - KMP II
+  percentage: 100
+  color: info
+
+- name: Kanban Management Professional
+  percentage: 100
+  color: info
+
+- name: ITIL® Managing Across the Lifecycle Certificate
+  percentage: 100
+  color: info
+
+- name: ITIL® Expert Certificate in IT Service Management
+  percentage: 100
+  color: info
+
+- name: ITIL Foundation Certificate in IT Service Management
+  percentage: 100
+  color: info
+
+- name: ITIL® 2011 Intermediate - Operation Support and Analysis
+  percentage: 100
+  color: info
+
+- name: ITIL® 2011 Intermediate - Service Design
+  percentage: 100
+  color: info
+
+- name: ITIL® 2011 Intermediate - Service Operation
+  percentage: 100
+  color: info
+
+- name: ITIL® 2011 Intermediate - Service Strategy
+  percentage: 100
+  color: info
+
+- name: IT Service Management Foundation Bridge based on ISO/IEC 20000
+  percentage: 100
+  color: info
+
+- name: Service Catalogue Foundation
+  percentage: 100
+  color: info
+
+- name: COBIT 4.1 Foundation
+  percentage: 100
+  color: info
+
+- name: MCSO - Modulo Certified Security Officer (Expirada)
+  percentage: 100
+  color: info

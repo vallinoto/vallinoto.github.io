@@ -26,14 +26,14 @@ Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas *Bus
 <br>
 <br>
 
-<!-- 
+
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Data Science - Licenças e Treinamentos" source=site.data.programming-skills %}
+{% include about/skills.html title="Business, Governance, Service Mgmt & Security" source=site.data.other-skills %}
 </div>
 
--->
+
 
 <div class="row">
 {% include about/timeline.html %}

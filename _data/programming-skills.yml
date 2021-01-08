@@ -1,11 +1,64 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: Big Data Analytics com R e Microsoft Azure Machine Learning (108h)
+  percentage: 100
+  color: success
 
-- name: Go
-  percentage: 80
-  color:
+- name: Big Data Real-Time Analytics com Python e Spark (64h)
+  percentage: 100
+  color: success
 
-- name: Python
-  percentage: 70
+- name: Engenharia de Dados com Hadoop e Spark (44h)
+  percentage: 85
   color: dark
+
+- name: Machine Learning (120h)
+  percentage: 20
+  color: dark
+
+- name: Business Analytics (52h)
+  percentage: 100
+  color: success
+
+- name: Visualização de Dados e Design de Dashboards (44h)
+  percentage: 100
+  color: success
+
+- name: Mario Filho - Como Criar Solução Completa de Data Science
+  percentage: 100
+  color: success
+
+- name: Minerando Dados - Data Science do Zero
+  percentage: 100
+  color: success
+
+- name: FiveActs - Tableau Desktop - Módulo I e II
+  percentage: 100
+  color: success
+
+- name: Planilheiros - Power BI - Analistas de Negócio I
+  percentage: 100
+  color: success
+
+- name: Planilheiros - Power BI - Analistas de Negócio II
+  percentage: 100
+  color: success
+
+
+- name: Tableau Desktop I e II - Intensivo
+  percentage: 100
+  color: success
+
+- name: Udemy - Git e Github para Iniciantes
+  percentage: 100
+  color: success
+
+- name: Udemy - Python 3 - Iniciante ao Avançado
+  percentage: 100
+  color: success
+
+- name: Udemy - Python para Data Science e Machine Learning
+  percentage: 100
+  color: success
+
+- name: Udemy - Design Thinking Possível
+  percentage: 100
+  color: success
