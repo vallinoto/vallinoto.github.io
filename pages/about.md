@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 1
 ---
 
-### **Quem sou eu?!**
+## Quem sou eu?!
 
 <br>
 <br>
@@ -32,7 +32,6 @@ Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas *Bus
 {% include about/skills.html title="Data Science - Licenças e Treinamentos" source=site.data.programming-skills %}
 {% include about/skills.html title="Business, Governance, Service Mgmt & Security" source=site.data.other-skills %}
 </div>
-
 
 
 <div class="row">
