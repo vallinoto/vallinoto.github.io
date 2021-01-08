@@ -1,8 +1,8 @@
-- name: Big Data Analytics com R e Microsoft Azure Machine Learning (108h)
+- name: Big Data Analytics com R e Microsoft Azure ML (108h)
   percentage: 100
   color: success
 
-- name: Big Data Real-Time Analytics com Python e Spark (64h)
+- name: Big Data Real-Time Analytics c/ Python e Spark (64h)
   percentage: 100
   color: success
 
@@ -22,7 +22,7 @@
   percentage: 100
   color: success
 
-- name: Mario Filho - Como Criar Solução Completa de Data Science
+- name: Mario Filho - Como Criar Solução Completa de DS
   percentage: 100
   color: success
 
@@ -55,6 +55,6 @@
   percentage: 100
   color: success
 
-- name: Udemy - Python para Data Science e Machine Learning
+- name: Udemy - Python p/ Data Science e ML
   percentage: 100
   color: success
