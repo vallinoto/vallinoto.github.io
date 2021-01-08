@@ -33,6 +33,7 @@ Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas *Bus
 {% include about/skills.html title="Business, Governance, Service Mgmt & Security" source=site.data.other-skills %}
 </div>
 
+## Carreira
 
 <div class="row">
 {% include about/timeline.html %}
