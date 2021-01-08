@@ -34,11 +34,11 @@
   percentage: 100
   color: success
 
-- name: Planilheiros - Power BI - Analistas de Negócio I
+- name: Planilheiros - PowerBI - An. de Negócio I
   percentage: 100
   color: success
 
-- name: Planilheiros - Power BI - Analistas de Negócio II
+- name: Planilheiros - PowerBI - An. de Negócio II
   percentage: 100
   color: success
 
@@ -56,9 +56,5 @@
   color: success
 
 - name: Udemy - Python para Data Science e Machine Learning
-  percentage: 100
-  color: success
-
-- name: Udemy - Design Thinking Possível
   percentage: 100
   color: success
