@@ -12,7 +12,7 @@ Um dos pontos bacanas que a agilidade me mostrou é que realmente a proximidade 
 
 Em uma das conversas, principalmente sobre certificados e papéis com títulos, um colega de trabalho, o [Fabiano Freire](https://br.linkedin.com/in/fabianofreire/), me disse: acredito muito mais nas pessoas que praticam e vivem o que o manifesto ágil fala do que quem faz um curso ou uma prova. Esse argumento ficou vivo na minha cachola, fazendo com que eu relesse mais uma vez o manifesto e gerasse uma tabela de exemplos de quais práticas eu exercitava. Numa dessas consultas, tive acesso a um post e subsequente vídeo da palestra do [Caco Mafra](https://br.linkedin.com/in/cleitonmafra/) falando sobre limitar WIP na vida. apresentação e literatura indicada foram ao encontro de algumas das ideias que tinha e a partir disso resolvi criar o meu manifesto para vida: o MYnifesto. Nome não ficou dos melhores, mas vamos lá...
 
-A composição dele é uma coletânea de frases simples para marcar e lembrar por reforço os comportamentos mais importantes para me tornar alguém melhor. Na figura abaixo eu os apresento te depois o motivo de cada uma das escolhas.
+A composição dele é uma coletânea de frases simples para marcar e lembrar por reforço os comportamentos mais importantes para me tornar alguém melhor. Na figura abaixo eu os apresento e depois eu digo o motivo de cada uma das escolhas.
 
 
 ![MYnifesto]({{site.baseurl}}/img/mynifesto.jpeg)
@@ -61,7 +61,7 @@ Primeiro passo para mudar é reconhecer, o segundo é querer. Não é fácil, ma
 ## Livros recomendados:
 * Essencialismo – A Disciplinada Busca por Menos, Greg McKeown
 * 10% mais feliz – Dan Harris
-* O poder do hábito – Por que fazemos o que fazemos nna vida e nos negócios, Charles Duhigg
+* O poder do hábito – Por que fazemos o que fazemos na vida e nos negócios, Charles Duhigg
 * O poder do agora – Um guia para a Iluminação espiritual, Eckhart Tolle
 * Atenção Plena – Mindfulness: Como Encontrar A Paz Em Um Mundo Frenético, Mark Williams
 
