@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-image: 11.jpg
+image: 
 ---
 
 Em breve disponibilizarei mais informacoes.
