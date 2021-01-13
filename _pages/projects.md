@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Relação de Projeto com Dados
 permalink: /projects/
 image: markus-winkler-Q2J2qQsoYH8-unsplash.jpg
 ---
