@@ -1,22 +1,24 @@
 ---
 layout: page
 title: About
-image: profile.jpg
+image: 08.jpg
 permalink: /about/
 ---
 
-Oi, eu sou o Tiago, muito prazer! Profissionalmente, muitos me chamam pelo sobrenome, Vallinoto, ou pela simples diminuição dele: Valli.
-Fique à vontade para usar qualquer um. O importante é interagirmos.
+My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
 
-Venho trabalhando nos últimos anos (desde 2001) com tecnologia, nos mais diversos papéis, acreditem. De técnico de campo à sysadmin. Passei por áreas de governança e gestão de serviços, inclusive participando de times de Segurança da Informação. Não me vejo como especialista em algo, pelo contrário. Pelo fato de ser mais generalista, consigo fazer conexões e melhor uso de práticas para alavancar a entrega de soluções.
+#### Austin scenester...
+<small>2008 - 2017</small>
 
-Desde 2016 para cá tenho me envolvido com temas estratégicos e transformação digital. Isso tem me permitido estudar as mais diversas temáticas e participar de grandes debates.
+Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
 
-Considero-me um profissional analítico, entusiasta do mundo dos dados, buscando intensificar a adoção de uma cultura *data-driven* dentro dos times que participo. Faço uso intenso de *story telling*, *exploratory data analysis* e data-viz para gerar ideias e novas perspectivas. Qual problema temos que resolver?
+#### Vinyl hexagon before...
+<small>2001 - 2008</small>
 
-Tenho uma comunicação clara e bom relacionamento. Tudo construído através das experiências dentro e fora da área de tecnologia. Habilidade para ler cenários, permitindo desenvolver propostas de forma rápida e pragmática, dando celeridade na tomada de decisão. Abordagem lógica e analítica para resolução de problemas.
+Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
+Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
 
-Hoje em dia, meu foco de trabalho está fortemente relacionado com os temas *Business Agility*, *Service Delivery and Portfolio Management*, tudo regado com muitos dados e análises :)
+#### La croix you probably...
+<small>1995 - 2000</small>
 
-### Quer saber mais?
-Acessa meu perfil no Linkedin: [https://linkedin.com/in/vallinoto] (https://linkedin.com/in/vallinoto)
+Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
