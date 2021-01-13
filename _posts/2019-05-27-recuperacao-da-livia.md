@@ -1,19 +1,11 @@
 ---
-title: "Recuperação da Lívia"
-tags: 
-  - agile
-  - agilidade 
-  - gestao visual
-style: fill
-color: secondary
-comments: true
-description: "Como identifiquei algumas práticas emergirem ao natural em uma UTI Neo"
+layout: post
+title:  ""Recuperação da Lívia""
+date:   2019-05-27 20:00:00 +0300
+image:  javier-matheu-AHDeiqdiC7Q-unsplash.jpg
+tags:   [ agilidade, gestão visual ]
 ---
 
-![Capa](https://vallinoto.com/media/javier-matheu-AHDeiqdiC7Q-unsplash.jpg)
-<figcaption class="caption">fonte: javier-matheu-AHDeiqdiC7Q-unsplash.jpg</figcaption>
-<br>
-<br>
 
 Tem coisas na vida que acontecem e nem sabemos ao menos o motivo, a razão. Já faz algum tempo que tenho procurado encarar os fatos de forma diferente, procurando sempre tirar algum tipo de ensinamento, mesmo que a situação não seja boa. Estar em situações desconfortáveis acaba por nos deixar vulneráveis, a mercê de sentimentos um tanto quanto avassaladores. No final de 2018, passei por uma situação dessas. E gostaria de compartilhar com vocês meus aprendizados e reflexões.
 
@@ -29,7 +21,7 @@ Pós planning, um sentimento de medo, apreensão, e todos os demais sentimentos 
 
 **Dia 01 de 10:** conhecemos os integrantes do time e, pasmem, apesar de ter o tamanho muito grande, é interessante como as coisas fluem entre o membros (técnicos, enfermeiras, médicos, etc.). Todos com o objetivo claro e trabalhando para seu atendimento. 
 
-![Lívia UTI](https://vallinoto.com/media/livia_uti.jpg)
+![Lívia UTI](https://vallinoto.com/img/livia_uti.jpg)
 <figcaption class="caption">Lívia com acesso para medicação</figcaption>
 <br>
 
@@ -64,7 +56,7 @@ Pós planning, um sentimento de medo, apreensão, e todos os demais sentimentos 
 ##### Boas notícias: Produção, enfim produção!!! Produto liberado, todos felizes!!!
 
 
-![Lívia Hoje](https://vallinoto.com/media/livia_hj.jpg)
+![Lívia Hoje](https://vallinoto.com/img/livia_hj.jpg)
 <figcaption class="caption">Minha lindeza 5 meses depois :) \0/</figcaption>
 <br>
 

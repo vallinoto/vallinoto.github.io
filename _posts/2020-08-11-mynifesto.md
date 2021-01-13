@@ -1,20 +1,11 @@
 ---
-
-title: "MYnifesto"
-description:  "Meu conjunto de práticas para melhorar continuamente."
-comments: true
-style: fill
-color: secondary
-tags:
-  - kaizen
-  - autoconhecimento
-author: vallinoto
+layout: post
+title:  "MYnifesto, meu conjunto de práticas para melhorar continuamente."
+date:   2020-08-11 0:00:00 +0300
+image:  cover_post_mynifest.jpg
+tags:   [ kaizen, autoconhecimento ]
 ---
 
-![Capa](https://vallinoto.com/media/cover_post_mynifest.jpg)
-<figcaption class="caption">fonte: cover_post_mynifest.jpg</figcaption>
-<br>
-<br>
 
 Tenho refletido sobre como mudar alguns comportamentos que entendo não serem adequados para mim. Sempre estive preocupado com a aceitação dos outros, da imagem que fazem de mim. Minha passagem, estadia, no tema agilidade me proporcionou/proporciona uma série de reflexões e é sobre isso que gostaria de compartilhar um pouco.
 
@@ -25,14 +16,14 @@ Em uma das conversas, principalmente sobre certificados e papéis com títulos, 
 A composição dele é uma coletânea de frases simples para marcar e lembrar por reforço os comportamentos mais importantes para me tornar alguém melhor. Na figura abaixo eu os apresento te depois o motivo de cada uma das escolhas.
 
 
-![MYnifesto](https://vallinoto.com/media/mynifesto.jpeg)
+![MYnifesto](https://vallinoto.com/img/mynifesto.jpeg)
 
 
 1. **Don’t say YES so FAST** 
 Tenho por hábito dizer sim para quase tudo. É praticamente inconciente. Tenho tentado praticar o mantra aprendido nas pesquisas: se não for um sim claro, será um claro e óbvio não. Isso vale para seleção de oportunidades e aquisições em geral.
 
 2. **Stop starting, start finishing** 
-Essa talvez seja a frase que mais me impacta. Ouvi pela ṕrimeira vez nos treinamentos de Kanban com [Rodrigo Yoshima](https://br.linkedin.com/in/rodrigoy) e passei a usar os adesivos da [K21]( https://www.linkedin.com/company/knowledge21) (muito bons, diga-se de passagem). Sou procrastinador ativo (grato [Juliana Facchinin](https://br.linkedin.com/in/juliana-facchini-b15050199), por me abrir os olhos), abro a maior quantidade de itens para fazer, postergando outras já iniciadas.
+Essa talvez seja a frase que mais me impacta. Ouvi pela primeira vez nos treinamentos de Kanban com [Rodrigo Yoshima](https://br.linkedin.com/in/rodrigoy) e passei a usar os adesivos da [K21]( https://www.linkedin.com/company/knowledge21) (muito bons, diga-se de passagem). Sou procrastinador ativo (grato [Juliana Facchinin](https://br.linkedin.com/in/juliana-facchini-b15050199), por me abrir os olhos), abro a maior quantidade de itens para fazer, postergando outras já iniciadas.
 #fail, ainda mais para quem se diz adepto do método Kanban. A vergonha é grande J. Estou limitando a quantidade de iniciativas e novos itens só entram se forem um claro SIM e depois de uma outra sair. Se for SIM e não tiver saído nada, negociamos prazo.
 
 3. **Respect the data** 

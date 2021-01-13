@@ -1,91 +1,72 @@
-### Site Settings ###
-title               : vallinoto.com
-description         : >-
-                      analytic professional | data science enthusiast 
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-#repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-#remote_theme        : YoussefRaafatNasry/portfolYOU
+#-------------------------------
+# General Site Settings
+
+title: vallinoto.com | repo about data
+description: data lover  # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://vallinoto.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-### Plugins ###
+#-------------------------------
+# About Section
+author-name:   Natali Anderson
+author-avatar: 09.jpg
+
+
+#-------------------------------
+# Contact links
+#facebook:  https://facebook.com/ # Add your Facebook handle
+twitter:   https://twitter.com/tvallinoto # Add your Facebook handle
+#instagram: https://www.instagram.com/ # Add your Facebook handle
+#pinterest: https://www.pinterest.com/ # Add your Facebook handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: vallinoto # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: ':title/'
 plugins:
-  - jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 7
+paginate_path: "/page/:num"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 
-### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
-  - pages/404.html
-  - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
-
-### Author Info ###
-author:
-  name              : Vallinoto
-  image             : https://vallinoto.com/media/profile.jpg
-#  behance           : your_username
-# dribbble          : your_username
-  email             : eu@vallinoto.com
-#  facebook          : your_username
-  github            : vallinoto
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : vallinoto
-  medium            : vallinoto
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : tvallinoto
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
-
-
-### Posts ###
-permalink: /blog/:title
-
-
-### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
-
-
-### Disqus ###
-disqus:
-  shortname: vallinoto                     # Your website Shortname on disqus
-
-
-### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
-
-
-### Defaults for collections ###
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
-
-### Exclude from processing ###
-exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
-  - "*.log"
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
